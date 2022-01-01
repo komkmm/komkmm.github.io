@@ -8,6 +8,15 @@ I'm a machine learning researcher especially focusing in generative model such a
 
 
 
----
-title: "Projects"
----
+# Publication
+
+
+
+
+
+
+
+
+
+# Projects
+
