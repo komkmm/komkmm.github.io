@@ -8,8 +8,7 @@ I'm a machine learning researcher especially focusing in generative model such a
 
 
 # Publications
-
-<img align="left" src="https://user-images.githubusercontent.com/46648096/147867923-47f1980e-3e93-4797-bebe-161db379be91.png" height="140" width="360"/> &nbsp;&nbsp;&nbsp; __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Jun-Suk Park, Byoung-Tak Zhang.   
+<img align="left" src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" height="140" width="360"/>    &nbsp;&nbsp;&nbsp; __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Jun-Suk Park, Byoung-Tak Zhang.     
 &nbsp;&nbsp;&nbsp; *"CONDA: Contrastive Learning for Domain Adaptation in Few-shot Image Generation"*    
 &nbsp;&nbsp;&nbsp; CVPR 2022 (under review).     
 &nbsp;&nbsp;&nbsp; [paper]     
