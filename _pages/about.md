@@ -7,22 +7,10 @@ I'm a machine learning researcher especially focusing in generative model such a
 
 
 # Publications
-<table align="center" style="border-collapse: collapse; border: none;">
-    <!-- C3 -->
-    <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" alt="Photo" width="280" height="140" /></td>
-      <td align="left" style="border: none;"><span style="font-size: 15px;"><b>C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</b></span><br>
-          <span style="font-size:14px; color:#0000008f;">Hyukgi Lee, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Chang-Hoon Jeong, Hanwool Sul, Byoung-Tak Zhang</span><br>
-          <span style="font-size:14px; color:#0275d8;"><b>NeurIPS 2021 CtrlGen Workshop</b></span><br>
-          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf">Paper</a></span>
-          </td> 
-    </tr>
-    <tr style="border: none;">
-        <td style="border: none;" colspan="3"><hr style="border: solid 0.3px #EDEDED;"></td>
-    </tr>
-</table>
 
-
+|   |  |
+|:-------------:|:-------------:|
+| <img align="left" src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" height="100" width="300"/> | __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Jun-Suk Park, Byoung-Tak Zhang. *"CONDA: Contrastive Learning for Domain Adaptation in Few-shot Image Generation"* CVPR 2022 (under review). [paper]|
 
 ---
 
