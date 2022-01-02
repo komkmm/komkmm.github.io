@@ -7,11 +7,13 @@ classes: wide
 I'm a machine learning researcher especially focusing in generative model such as Generative Adversarial Networks(GANs). Recent research topic has been few-shot image generation, which covers constraint that only given few-shot training data. I’m also interested in image-to-image translation, text-to-image generation, and other computer vision task such as object detection.
 
 
-## Publications
+# Publications
+
 <img align="left" src="https://user-images.githubusercontent.com/46648096/147867923-47f1980e-3e93-4797-bebe-161db379be91.png" height="140" width="140"> __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Jun-Suk Park, Byoung-Tak Zhang.   
 *"CONDA: Contrastive Learning for Domain Adaptation in Few-shot Image Generation"*    
 CVPR 2022 (under review).   
 [paper]
+
 
 ---
 
@@ -29,7 +31,7 @@ Korea Computer Congress 2020.
 
 ---
 
-## Projects
+# Projects
 
 인공지능 학습용 데이터 구축사업
 # 서울대학교 AI연구원, 한국지능정보사회진흥원
