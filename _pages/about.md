@@ -8,26 +8,26 @@ I'm a machine learning researcher especially focusing in generative model such a
 
 
 # Publications
-<img align="left" src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" height="130" width="350"/>    &nbsp;&nbsp;&nbsp; __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Jun-Suk Park, Byoung-Tak Zhang.     
-&nbsp;&nbsp;&nbsp; *"CONDA: Contrastive Learning for Domain Adaptation in Few-shot Image Generation"*    
-&nbsp;&nbsp;&nbsp; CVPR 2022 (under review).     
-&nbsp;&nbsp;&nbsp; [paper]     
+<img align="left" src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" height="130" width="350"/> __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Jun-Suk Park, Byoung-Tak Zhang.     
+*"CONDA: Contrastive Learning for Domain Adaptation in Few-shot Image Generation"*    
+CVPR 2022 (under review).     
+[paper]     
            
            
 ---
 
-<img align="left" src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" height="130" width="350"/> &nbsp;&nbsp;&nbsp; __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Byoung-Tak Zhang.  
-&nbsp;&nbsp;&nbsp; *"C<sup>3</sup>:  Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation"*    
-&nbsp;&nbsp;&nbsp; NeurIPS 2021 Workshop on CtrlGen.   
-&nbsp;&nbsp;&nbsp; [[paper]](https://github.com/komkmm/komkmm.github.io/blob/master/assets/paper/NIPS_Workshop_camera_ready.pdf).  
+<img align="left" src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" height="130" width="350"/> __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Byoung-Tak Zhang.  
+*"C<sup>3</sup>:  Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation"*    
+NeurIPS 2021 Workshop on CtrlGen.   
+[[paper]](https://github.com/komkmm/komkmm.github.io/blob/master/assets/paper/NIPS_Workshop_camera_ready.pdf).  
     
     
 ---
 
-<img align="left" src="https://user-images.githubusercontent.com/46648096/147867903-eefe63c4-add5-4ba0-8081-3f2c862ec1d5.png" height="130" width="350"/> &nbsp;&nbsp;&nbsp; __Hyuk-Gi Lee__, Yu-Jung Heo, Byoung-Tak Zhang.  
-&nbsp;&nbsp;&nbsp; *"A study on analysis of human and machine visual attention map for Visual Question Answering"*  
-&nbsp;&nbsp;&nbsp; Korea Computer Congress 2020.  
-&nbsp;&nbsp;&nbsp; [[paper]](https://github.com/komkmm/komkmm.github.io/blob/master/assets/paper/KCC2020_HGLeeHZ.pdf).   
+<img align="left" src="https://user-images.githubusercontent.com/46648096/147867903-eefe63c4-add5-4ba0-8081-3f2c862ec1d5.png" height="130" width="350"/> __Hyuk-Gi Lee__, Yu-Jung Heo, Byoung-Tak Zhang.  
+*"A study on analysis of human and machine visual attention map for Visual Question Answering"*  
+Korea Computer Congress 2020.  
+[[paper]](https://github.com/komkmm/komkmm.github.io/blob/master/assets/paper/KCC2020_HGLeeHZ.pdf).   
     
       
 ---
