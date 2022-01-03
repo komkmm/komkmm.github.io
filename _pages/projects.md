@@ -3,4 +3,7 @@ permalink: /projects/
 title: "Projects"
 ---
 
-I'm a machine learning researcher especially focusing in generative model such as Generative Adversarial Networks(GANs). Recent research topic has been few-shot image generation, which covers constraint that only given few-shot training data. I’m also interested in image-to-image translation, text-to-image generation, and other computer vision task such as object detection.
+## 인공지능 학습용 데이터 구축사업
+#### 서울대학교 AI연구원, 한국지능정보사회진흥원
+
+
