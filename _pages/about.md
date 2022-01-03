@@ -8,7 +8,7 @@ I'm a machine learning researcher/engineer especially interested in generative m
 # Education
 * Master of Cognitive Science in <b>Cognitive Science</b>, Seoul National University, 2022(expected)
 * Bachelor of Arts in <b>Economics</b> and Bachelor of Science in <b>Computer Science</b>, Seoul National University, 2018  
-  - Singapore Management University, Semester Abroad Spring 2017
+  - Singapore Management University, Semester Abroad Spring 2017 <br /> <br />
 
 # Publications
 
