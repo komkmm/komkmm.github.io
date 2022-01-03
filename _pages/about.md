@@ -11,6 +11,7 @@ I'm a machine learning researcher/engineer especially interested in generative m
   - Singapore Management University, Semester Abroad Spring 2017
 
 # Publications
+
 |   |   |
 |:-------------:|:-------------|
 | <img align="left" src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" height="200" width="300"/> | __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Jun-Suk Park, Byoung-Tak Zhang. <br />*"CONDA: Contrastive Learning for Domain Adaptation in Few-shot Image Generation"*<br /> <b>CVPR 2022 (under review)</b> <br />[paper]|
@@ -18,6 +19,7 @@ I'm a machine learning researcher/engineer especially interested in generative m
 | <img align="left" src="https://user-images.githubusercontent.com/46648096/147867903-eefe63c4-add5-4ba0-8081-3f2c862ec1d5.png" height="200" width="300"/> | __Hyuk-Gi Lee__, Yu-Jung Heo, Byoung-Tak Zhang. <br />*"A study on analysis of human and machine visual attention map for Visual Question Answering"* <br /> <b> Korea Computer Congress 2020</b>. <br />[[paper]](https://github.com/komkmm/komkmm.github.io/blob/master/assets/paper/KCC2020_HGLeeHZ.pdf)|
 
 # Projects
+
 |   |   |
 |:-------------:|:-------------|
 |<img align="left" src="https://user-images.githubusercontent.com/46648096/147901750-bbde7721-4306-432f-8659-24efc7c29126.png" height="200" width="450"/> | **인공지능 학습용 데이터 구축사업(서울대학교 AI연구원, 한국지능정보사회진흥원)** <br /> - 로봇과 사람의 인터랙션을 위한 안내/요청 등의 상황에 따른 사람 얼굴에 대한 bounding box, 감정, 발화 내용 및 어조 등의 라벨링 정보를 담은 멀티모달 학습 데이터 구축 <br /> - 주요 역할: 데이터 수집, 정제, 라벨링 및 검수를 위한 파이프라인 구축 <br /> - AI Hub platform을 통한 데이터 배포: https://aihub.or.kr/aidata/34160 <br /> - 2020.09 ~ 2021.04 <br /> <a href="#" class="btn btn--primary">... show more</a> |
