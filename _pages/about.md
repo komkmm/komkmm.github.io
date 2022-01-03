@@ -17,6 +17,7 @@ I'm a machine learning researcher/engineer especially interested in generative m
 | <img align="left" src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" height="200" width="300"/> | __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Jun-Suk Park, Byoung-Tak Zhang. <br />*"CONDA: Contrastive Learning for Domain Adaptation in Few-shot Image Generation"*<br /> <b>CVPR 2022 (under review)</b> <br />[paper]|
 | <img align="left" src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" height="200" width="300"/> | __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Byoung-Tak Zhang. <br />*"C<sup>3</sup>:  Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation"* <br /> <b>NeurIPS 2021 Workshop on CtrlGen</b>. <br />[[paper]](https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf)|
 | <img align="left" src="https://user-images.githubusercontent.com/46648096/147867903-eefe63c4-add5-4ba0-8081-3f2c862ec1d5.png" height="200" width="300"/> | __Hyuk-Gi Lee__, Yu-Jung Heo, Byoung-Tak Zhang. <br />*"A study on analysis of human and machine visual attention map for Visual Question Answering"* <br /> <b> Korea Computer Congress 2020</b>. <br />[[paper]](https://github.com/komkmm/komkmm.github.io/blob/master/assets/paper/KCC2020_HGLeeHZ.pdf)|
+<br><br>
 
 # Projects
 
