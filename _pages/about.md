@@ -27,8 +27,8 @@ I'm a machine learning researcher especially focusing in generative model such a
 
 |   |   |
 |:-------------:|:-------------|
-|<img align="left" src="https://user-images.githubusercontent.com/46648096/147867903-eefe63c4-add5-4ba0-8081-3f2c862ec1d5.png" height="200" width="300"/> | 인공지능 학습용 데이터 구축사업(서울대학교 AI연구원, 한국지능정보사회진흥원)<br /> 로봇과 사람의 인터랙션을 위한 안내 및 요청 등의 상황에 따른 사람 얼굴에 대한 <br /> 주요 역할: 데이터 수집,정제,라벨링 및 검수를 위한 파이프라인 구축 <br /> AI Hub platform을 통한 데이터 배포: https://aihub.or.kr/aidata/34160 |
-|<img align="left" src="https://user-images.githubusercontent.com/46648096/147867903-eefe63c4-add5-4ba0-8081-3f2c862ec1d5.png" height="200" width="300"/> | 인공지능을 이용한 사용자 맞춤형 세탁 코스 추천 시스템 연구 <br />(LG 전자)<br /> * 노답이다. <br /> * 왜 이럴까? <br /> 뭐지 |
-| <img align="left" src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" height="200" width="300"/> | Video Turing Test <br /> 주요 역할 : Video Intelligence Platform 구축 <br /> 각 모듈을 엮어서 <br /> 뭐지 |
+|<img align="left" src="https://user-images.githubusercontent.com/46648096/147867903-eefe63c4-add5-4ba0-8081-3f2c862ec1d5.png" height="200" width="450"/> | 인공지능 학습용 데이터 구축사업(서울대학교 AI연구원, 한국지능정보사회진흥원)<br /> - 로봇과 사람의 인터랙션을 위한 안내/요청 등의 상황에 따른 사람 얼굴에 대한 bounding box, 감정, 발화 내용 및 어조 등의 라벨링 정보를 담은 멀티모달 학습 데이터 구축 <br /> - 주요 역할: 데이터 수집, 정제, 라벨링 및 검수를 위한 파이프라인 구축 <br /> - AI Hub platform을 통한 데이터 배포: https://aihub.or.kr/aidata/34160 <br /> ... show more |
+|<img align="left" src="https://user-images.githubusercontent.com/46648096/147867903-eefe63c4-add5-4ba0-8081-3f2c862ec1d5.png" height="200" width="450"/> | 인공지능을 이용한 사용자 맞춤형 세탁 코스 추천 시스템 연구(LG 전자)<br /> - 유저 클러스터링을 위한 중요 특성을 추출하기 위한 유저 로그 데이터 분석 <br /> - 유저 세탁 행동 로그 데이터 분석을 통한 유저 클러스터링 <br /> - 클러스터링을 통해 생성한 pseudolabel을 바탕으로 유저 그룹 분류 <br /> - 주요 역할: 전처리된 유저 데이터에 대한 클러스터링 및 분류 & 주요 통계치에 대한 시각화 <br /> ... show more |
+| <img align="left" src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" height="200" width="450"/> | Video Turing Test(서울대학교) <br /> - 기계가 비디오를 이해하는지를 평가해 그 지능을 측정하는 연구 <br /> - 주요 역할 : Video Intelligence Platform 구축 <br /> 각 모듈을 엮어서 <br /> 뭐지 <br /> ... show more |
 
 ---
