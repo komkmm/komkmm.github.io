@@ -62,6 +62,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I'm a machine learning researcher/engineer."
   links:
+    - label: "email"
+      url: "komkmm@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
