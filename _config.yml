@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Hyuk-Gi Lee"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a machine learning researcher/engineer interested in computer vision."
+  bio    : "I'm a machine learning research engineer interested in computer vision."
   location : "Seoul, Korea"
   links:
     - label: "Email"
