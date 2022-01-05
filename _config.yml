@@ -74,6 +74,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:komkmm@gmail.com"
+    - label: "CV"
+      url: "https://github.com/komkmm/komkmm.github.io/files/7811851/resume_korean_hyukgilee.pdf"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
