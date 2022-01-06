@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I'm a machine learning researcher/engineer especially interested in generative model such as Generative Adversarial Networks(GANs). Recent research topic has been unconditional image generation, which covers constraint that only given few-shot training data. I’m also interested in image-to-image translation, text-to-image generation, and other computer vision task such as object detection. <br /> <br />
+I'm a machine learning researcher/engineer especially focused on generative model such as Generative Adversarial Networks(GANs). Recent research topic has been unconditional image generation, which covers constraint that only given few-shot training data. I’m also interested in image-to-image translation, text-to-image generation, and other computer vision task such as object detection. <br /> <br />
 
 # Education
 * Master of Cognitive Science in <b>Cognitive Science</b>, Seoul National University, 2022 (expected)
