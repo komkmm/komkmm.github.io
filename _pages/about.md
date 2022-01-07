@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I'm a machine learning research engineer especially focused on generative model such as Generative Adversarial Networks(GANs). Recent research topic has been unconditional image generation, which covers constraint that only given few-shot training data. I’m also interested in image-to-image translation, text-to-image generation, and other computer vision task such as object detection. <br /> <br />
+I’m a M.S student at Seoul National University, advised by Byoung-Tak Zhang. I’m broadly interested in computer vision, vision-language task and its applications to real-world. In particular, my research that has recently focused is generative model such as Generative Adversarial Networks(GANs), and knowledge transfer via transfer learning. <br /> <br />
 
 # Education
 * Master of Cognitive Science in <b>Cognitive Science</b>, Seoul National University, 2022 (expected)
