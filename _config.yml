@@ -68,14 +68,14 @@ plugins:
 author:
   name   : "Hyuk-Gi Lee"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a machine learning research engineer interested in computer vision."
+  bio    : "I'm a M.S student interested in computer vision and vision-language."
   location : "Seoul, Korea"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:komkmm@gmail.com"
     - label: "CV"
-      url: "https://github.com/komkmm/komkmm.github.io/files/7811871/resume_korean_hyukgilee.pdf"
+      url: "https://github.com/komkmm/komkmm.github.io/files/7825636/Resume_korean_hyukgilee2.pdf"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
