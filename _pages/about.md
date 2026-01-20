@@ -8,16 +8,16 @@ I’m a Research Engineer at Neosapience. Previously, I completed my M.S. at Seo
 
 # Experience
 * <b>Research Engineer</b>, Neosapience, Mar 2022 – Present  
-  - Develop generative AI models, including image,audio-to-video generation  <br /> <br />
-  - Research model acceleration techniques such as distillation for faster and more efficient inference  <br /> <br />
+  - Develop generative AI models, including image,audio-to-video generation
+  - Research model acceleration techniques such as distillation for faster and more efficient inference
 
 * <b>Graduate Researcher</b>, Biointelligence Lab, Mar 2020 – Feb 2022  
-  - Conducted research on generative models, domain adaptation, and transfer learning  <br /> <br />
+  - Conducted research on generative models, domain adaptation, and transfer learning
 
 # Education
 * Master of Cognitive Science in <b>Cognitive Science</b>, Seoul National University, 2022
 * Bachelor of Arts in <b>Economics</b> and Bachelor of Science in <b>Computer Science</b>, Seoul National University, 2018  
-  - Singapore Management University, Semester Abroad Spring 2017 <br /> <br />
+  - Singapore Management University, Semester Abroad Spring 2017
 
 # Publications
 
