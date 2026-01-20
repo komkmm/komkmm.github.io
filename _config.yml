@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Hyuk-Gi Lee"
   avatar : "/assets/images/leehyukgi_profile.jpeg"
-  bio    : "I'm a M.S student interested in computer vision and vision-language."
+  #bio    : "I'm a M.S student interested in computer vision and vision-language."
   location : "Seoul, Korea"
   links:
     - label: "Email"
