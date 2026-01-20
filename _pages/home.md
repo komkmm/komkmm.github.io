@@ -3,10 +3,19 @@ permalink: /
 title: "Home"
 ---
 
-I'm a machine learning researcher/engineer especially interested in generative model such as Generative Adversarial Networks(GANs). Recent research topic has been unconditional image generation, which covers constraint that only given few-shot training data. I’m also interested in image-to-image translation, text-to-image generation, and other computer vision task such as object detection. <br /> <br />
+I’m a Research Engineer at Neosapience. Previously, I completed my M.S. at Seoul National University under the supervision of Byoung-Tak Zhang. I’m broadly interested in generative AI and its real-world applications, with a focus on diffusion models for image/video generation and model acceleration (e.g., distillation and efficient sampling).
+<br /> <br />
+
+# Experience
+* <b>Research Engineer</b>, Neosapience, Mar 2022 – Present  
+  - Develop generative AI models, including image,audio-to-video generation  <br /> <br />
+  - Research model acceleration techniques such as distillation for faster and more efficient inference  <br /> <br />
+
+* <b>Graduate Researcher</b>, Biointelligence Lab, Mar 2020 – Feb 2022  
+  - Conducted research on generative models, domain adaptation, and transfer learning  <br /> <br />
 
 # Education
-* Master of Cognitive Science in <b>Cognitive Science</b>, Seoul National University, 2022 (expected)
+* Master of Cognitive Science in <b>Cognitive Science</b>, Seoul National University, 2022
 * Bachelor of Arts in <b>Economics</b> and Bachelor of Science in <b>Computer Science</b>, Seoul National University, 2018  
   - Singapore Management University, Semester Abroad Spring 2017 <br /> <br />
 
@@ -14,7 +23,6 @@ I'm a machine learning researcher/engineer especially interested in generative m
 
 |   |   |
 |:-------------:|:-------------|
-| <img align="left" src="https://user-images.githubusercontent.com/46648096/147923685-fbb3e381-b22c-4b43-8afd-5a587b08b3c0.png" height="100" width="300"/> | __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Jun-Suk Park, Byoung-Tak Zhang. <br />*"CONDA: Contrastive Learning for Domain Adaptation in Few-shot Image Generation"*<br /> <b>CVPR 2022 (under review)</b> <br />[paper]|
 | <img align="left" src="https://user-images.githubusercontent.com/46648096/147867917-541ee899-4386-4cbe-afbf-14cd35de69e0.png" height="200" width="300"/> | __Hyuk-Gi Lee__, Gi-Cheon Kang, Chang-Hoon Jeong, Han-Wool Sul, Byoung-Tak Zhang. <br />*"C<sup>3</sup>:  Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation"* <br /> <b>NeurIPS 2021 Workshop on CtrlGen</b>. <br />[[paper]](https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf) [[poster]](https://github.com/komkmm/komkmm.github.io/files/7801612/ctrlgen_poster.pdf) |
 | <img align="left" src="https://user-images.githubusercontent.com/46648096/147867903-eefe63c4-add5-4ba0-8081-3f2c862ec1d5.png" height="200" width="300"/> | __Hyuk-Gi Lee__, Yu-Jung Heo, Byoung-Tak Zhang. <br />*"A study on analysis of human and machine visual attention map for Visual Question Answering"* <br /> <b> Korea Computer Congress 2020</b>. <br />[[paper]](https://github.com/komkmm/komkmm.github.io/blob/master/assets/paper/KCC2020_HGLeeHZ.pdf)|
 
