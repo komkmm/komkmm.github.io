@@ -3,7 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-I’m a M.S student at Seoul National University, advised by Byoung-Tak Zhang. I’m broadly interested in computer vision, vision-language task and its applications to real-world. In particular, my research that has recently focused is generative model such as Generative Adversarial Networks(GANs), and knowledge transfer via transfer learning. <br /> <br />
+I’m a Research Engineer at Neosapience. Previously, I completed my M.S. at Seoul National University under the supervision of Byoung-Tak Zhang. I’m broadly interested in generative AI and its real-world applications, with a focus on diffusion models for image/video generation and model acceleration (e.g., distillation and efficient sampling).
+<br /> <br />
 
 # Experience
 * <b>Research Engineer</b>, Neosapience, Mar 2022 – Present  
