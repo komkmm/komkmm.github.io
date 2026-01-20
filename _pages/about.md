@@ -8,8 +8,8 @@ I’m a Research Engineer at Neosapience. Previously, I completed my M.S. at Seo
 
 # Experience
 * <b>Research Engineer</b>, Neosapience, Mar 2022 – Present  
-  - Develop generative AI models, including <b>image- and audio-to-video</b> generation  <br /> <br />
-  - Research model acceleration techniques such as <b>distillation</b> for faster and more efficient inference  <br /> <br />
+  - Develop generative AI models, including image,audio-to-video generation  <br /> <br />
+  - Research model acceleration techniques such as distillation for faster and more efficient inference  <br /> <br />
 
 * <b>Graduate Researcher</b>, Biointelligence Lab, Mar 2020 – Feb 2022  
   - Conducted research on generative models, domain adaptation, and transfer learning  <br /> <br />
