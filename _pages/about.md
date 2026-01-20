@@ -5,8 +5,16 @@ title: "About"
 
 I’m a M.S student at Seoul National University, advised by Byoung-Tak Zhang. I’m broadly interested in computer vision, vision-language task and its applications to real-world. In particular, my research that has recently focused is generative model such as Generative Adversarial Networks(GANs), and knowledge transfer via transfer learning. <br /> <br />
 
+# Experience
+* <b>Research Engineer</b>, Neosapience, Mar 2022 – Present  
+  - Develop generative AI models, including <b>image- and audio-to-video</b> generation  
+  - Research model acceleration techniques such as <b>distillation</b> for faster and more efficient inference  
+
+* <b>Graduate Researcher</b>, Biointelligence Lab, Mar 2020 – Feb 2022  
+  - Conducted research on generative models, domain adaptation, and transfer learning  
+
 # Education
-* Master of Cognitive Science in <b>Cognitive Science</b>, Seoul National University, 2022 (expected)
+* Master of Cognitive Science in <b>Cognitive Science</b>, Seoul National University, 2022
 * Bachelor of Arts in <b>Economics</b> and Bachelor of Science in <b>Computer Science</b>, Seoul National University, 2018  
   - Singapore Management University, Semester Abroad Spring 2017 <br /> <br />
 
